@@ -7,7 +7,7 @@
 
 - **Fun fact:** I race drones professionally for Major League Drone Racing (MLDR) on the Las Vegas Hornets Team 🐝
 - **Reach me at:** [rparker52003@gmail.com](mailto:rparker52003@gmail.com) 📨
-- **Check out my website [Here](https://rparker2003.github.io/website/) 🛜
+- **Check out my website** [Here](https://rparker2003.github.io/website/) 🛜
 - **View my Resume:** [Here](https://www.linkedin.com/feed/update/urn:li:activity:7121026658895110144/) 📄
 
 <h3 align="left">Connect with me:</h3>
