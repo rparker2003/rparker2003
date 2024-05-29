@@ -4,7 +4,7 @@
 <p>
 <a href="https://www.linkedin.com/in/ryan-parker-940928173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://rparker2003.github.io/website/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7121026658895110144/" target="_blank"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7196947832480702464/" target="_blank"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"></a>
 </p>
 
 I'm a dedicated Bachelor's student at the University of Nevada, Las Vegas, specializing in cyber-physical engineering. Passionate about merging hardware and software, I excel in both frontend and backend development for web applications and large-scale projects. From crafting intuitive user interfaces with React to architecting robust systems with ROS2, I thrive on turning ideas into reality through code.
