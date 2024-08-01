@@ -7,11 +7,11 @@
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196947832480702464/" target="_blank"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"></a>
 </p>
 
-I'm a dedicated Bachelor's student at the University of Nevada, Las Vegas, specializing in cyber-physical engineering. Passionate about merging hardware and software, I excel in both frontend and backend development for web applications and large-scale projects. From crafting intuitive user interfaces with React to architecting robust systems with ROS2, I thrive on turning ideas into reality through code.
+I am a UNLV graduate with a Bachelor's degree in Computer Science, where my passion for blending hadware and software takes center stage. Whether I'm crafting sleek user interfaces with React or building poweful systems with ROS2, I love turning ideas into reality through code. 
 
-Beyond academia, I actively engage in collaborative projects and enjoy contributing to diverse teams. A firm believer in knowledge-sharing, I'm always eager to learn from and contribute to those around me.
+I thrive in collaborative environments and enjoy working with diverse teams to tackle exciting challenges. I'm always eager to learn from others and share my knowledge, believing that great ideas come from open communication and teamwork.
 
-In my downtime, I enjoy exploring musical styles on my guitar, finding inspiration that fuels my drive to innovate and explore both digital and analog worlds.
+When I'm not coding, you can find me jamming on my guitar, diving into video games, or flying FPV drones—and sometimes even racing them for a professional team in Major League Drone Racing (MLDR). These hobbies fuel my creativity and keep me inspired in both the digital and analog worlds. Whether it's strumming chords, strategizing in a game, racing drones, or writing code, I'm always ready to dive into the next adventure.
 
 ---
 
