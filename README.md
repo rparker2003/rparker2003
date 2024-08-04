@@ -4,7 +4,7 @@
 <p>
 <a href="https://www.linkedin.com/in/ryan-parker-940928173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://rparker2003.github.io/website/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7196947832480702464/" target="_blank"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"></a>
+<a href="Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"></a>
 </p>
 
 I am a UNLV graduate with a Bachelor's degree in Computer Science, where my passion for blending hadware and software takes center stage. Whether I'm crafting sleek user interfaces with React or building poweful systems with ROS2, I love turning ideas into reality through code. 
